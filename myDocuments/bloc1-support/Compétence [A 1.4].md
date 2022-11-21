@@ -7,14 +7,28 @@ Projet E-Music
 
 Le projet E-Music consiste à réaliser une application pour l’école de musique municipale de IFS pour ce faire nous avons utilisé la méthode SCRUM afin d'appréhender au mieux ce projet.
 
+[Cahier des charges](./src/emusic-cdc-spring.pdf)
+
 **1.1 )** Analyse des objectifs et des modalités d’organisation d’un projet
 
-Pour ce faire nous avons respecté plusieurs normes de la méthode SCRUM :
+Pour ce faire nous avons respecté plusieurs cadres de conception de la méthode SCRUM :
 
-- Définir des User Story comportant plusieurs chose : en tant que “qui je réaliserai l’action”, je peux réaliser “l’action en question”, afin de “bénéfice de cette action”
+- Définir des User Story il s'agit là de raconter une histoire utilisateur, en précisant :
+  1. L'acteur concerné
+  2. qui peut réaliser une action
+  3. afin d'en obtenir un avantage métier
 
 
-- Attribuer des points d’histoire à chaque User Story ( en fonction de leur impotence / niveau de difficulté).
+- Définir des critères d'acceptation, il s'agit de définir les conditions qui doivent être remplies pour que l'histoire utilisateur soit considérée comme terminée.
+
+
+- Définir si des tâches associées à une User Story sont nécessaires, elles doivent être définies.
+  
+
+- Définir des Epics, il s'agit de définir des grandes fonctionnalités de l'application.
+
+
+- Attribuer des points d’histoire à chaque User Story (en fonction de leur impotence / niveau de difficulté).
 
 
 - Utiliser un gestionnaire adapter à cette méthode ici Zenhub qui nous permet de voir l’avancement du projet et de programmer des “Sprints” pour organiser la réalisation des tâches dans le temps.
