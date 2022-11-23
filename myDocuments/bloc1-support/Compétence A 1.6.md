@@ -40,7 +40,7 @@ Pour réaliser ma veille informatique, j’utilise plusieurs outils :
   - SQL
   
 
-- Le site [](Make.com) qui me permet de faire un lien automatique entre mes mails de veille et un serveur discord. 
+- Le site [Make.com](https://www.make.com/en) qui me permet de faire un lien automatique entre mes mails de veille et un serveur discord. 
 
 L'objectif de cette démarche est d'avoir tous les jours à 9 h, les informations de veille qui arrivent sur mon serveur discord pour une plus grande facilité de visibilité. 
 
